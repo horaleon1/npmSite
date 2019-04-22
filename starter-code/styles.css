@@ -1,0 +1,240 @@
+nav {
+  background-color: #C12127;
+  color: rgba(255,255,255,0.8);
+  padding-top: 15px;
+  height: 60px;
+}
+
+nav a {
+  color: rgba(255,255,255,0.8);
+  text-decoration: none;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 25px 0 0;
+  padding-right: 25px;
+  font-size:1em;
+  font-family:arial;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+  padding-bottom: 20px;
+}
+
+.heart{
+  padding-left: 35px;
+  font-size: 1.5em;
+  font-family: arial;
+}
+.acronym{
+  padding-left:35px;
+  font-size: 1.60em;
+  font-family: arial;
+}
+.bar-background{
+  background-color: rgb(31,82,111);
+  width:1500px;
+  height:50px;
+  color:rgb(135,145,156);
+  border-color: rgb(135,145,156);
+  padding-left:1%;
+}
+
+.header{
+  background: url(/Users/Horace/Desktop/lab-html-module-exercise-master/starter-code/images/city-scape.svg)  no-repeat;
+  background-size: cover;
+  background-color: rgb(31,101,136);
+  color:white;
+  height:450px;
+  font-family: arial;
+}
+.sign-log{
+  text-decoration: none;
+  font-size: 1em;
+  font-family: arial;
+  padding-right: 35px;
+  display: block;
+}
+.li-sign-log{
+  list-style-type: none;
+}
+.header-img{
+  padding-left: 25px;
+  padding-right: 10px;
+}
+.header-div{
+  float:left;
+  display:inline-block;
+  padding-top:2px;
+}
+
+.header-div2{
+  float:left;
+  letter-spacing: 1px;
+  line-height:50px;
+  font-weight: 100;
+  padding-left:10%;
+  margin-left: auto;
+  margin-right: auto;
+  display: inline-block;
+}
+
+.fourth-div{
+  color:#f4f4f4;
+  padding-top:1%;
+  float: left;
+  
+}
+.fifth-div{
+  padding-left:15%;
+  padding-top:3%;
+}
+
+h1{
+  font-size: 2.5em;
+  color:white;
+  text-align: left;
+  line-height:30px;
+  font-family: arial;
+  line-height: 50px;
+}
+h2{
+  font-size:0.5em;
+  color:white;
+  text-align:left;
+  line-height: 30px;
+  font-family:arial;
+
+} 
+p{
+  color:white;
+  font-size:0.5em;
+  line-height: 30px;
+  font-family: arial;
+}
+#numero-1{
+  background-color: rgb(39, 53, 71);
+  height:500px;
+}
+#numero-2{
+  background:url(/Users/Horace/Desktop/lab-html-module-exercise-master/starter-code/images/forklift.svg) no-repeat;
+  background-size: cover;
+  height:500px;
+}
+#numero-3{
+  background:white; 
+  height:450px; 
+}
+.button-1{
+  background-color:rgb(240,146,51);
+  color:white;
+  font-family:arial;
+  font-size:1em;
+  text-align:center;
+  text-decoration:none;
+  display:block;
+  width:250px;
+  height:50px;
+  border-radius: 35px;
+  border-width:1px;
+  border-color: rgb(240,146,51);
+}
+.button-forth{
+  color:white;
+  background: rgb(208,74,73);
+  font-family:arial;
+  font-size:1em;
+  letter-spacing: 0.1px;
+  text-align:center;
+  text-decoration: none;
+  display:block;
+  width:250px;
+  height:50px;
+  border-radius: 35px;
+  border-width:1px;
+  border-color: rgb(208,74,73);
+}
+.button-fifth{
+color: #f4f4f4;
+background: rgb(49,68,88);
+font-family: Arial;
+font-size: 0.3em;
+letter-spacing: 0.1px;
+text-align: center;
+text-decoration: none;
+display: block;
+width:200px;
+height:40px;
+border-radius:35px;
+float:left;
+border-width: 1px;
+border-color:rgb(49,68,88);
+}
+.color{
+  color:rgb(83,88,98);
+  text-align:center;
+  font-family: arial;
+}
+.color-col{
+  float:left;
+  width:33.333333%;
+  text-align:center;
+  padding-top:2%;
+  color:rgb(135,145,156);
+  font-family:arial;
+  font-size:1ex;
+}
+.clearfix{
+  clear: both;
+}
+.oso-img{
+  background: rgb(31,101,136);
+  display: inline-block;
+}
+.img-colla{
+  float:left;
+  padding-left:15%;
+  padding-top: 4%;
+  padding-right:5%;
+}
+.col-img{
+  height:180px;
+  width:180px;
+}
+.last-h1{
+  color:rgb(135,145,156);
+  text-align:center;
+  font-family: arial;
+  letter-spacing: 1px;
+}
+.find-links{
+  text-decoration: none;
+  color: rgb(208,74,73);
+}
+.learn{
+  font-family: arial;
+  font-size:0.5em;
+  text-decoration: none;
+  float:left;
+  color:white;
+}
+.sign-format{
+  color:white;
+  font-family: arial;
+  font-size:1em;
+  text-decoration:none;
+}
+.li-format{
+  font-family:arial;
+  letter-spacing: 0.5px;
+  line-height: 30px;
+}
+.lupa{
+  background: rgb(31,101,136);
+  display: inline-block;
+}
